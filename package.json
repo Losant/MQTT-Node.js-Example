@@ -1,0 +1,11 @@
+{
+  "name": "mqtt-test",
+  "version": "1.0.0",
+  "description": "Test application to show off use of MQTT in Node.js.",
+  "main": "index.js",
+  "dependencies": {
+    "mqtt": "1.6.0"
+  },
+  "author": "Charlie Key <charlie@getstructure.io> (http://www.getstructure.io)",
+  "license": "ISC"
+}
