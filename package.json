@@ -6,6 +6,6 @@
   "dependencies": {
     "mqtt": "1.6.0"
   },
-  "author": "Charlie Key <charlie@getstructure.io> (http://www.getstructure.io)",
+  "author": "Charlie Key <charlie@losant.com> (https://www.losant.com)",
   "license": "ISC"
 }
